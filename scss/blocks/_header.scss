@@ -1,0 +1,29 @@
+.header__links {
+  color: #506690;
+  font-family: sans-serif;
+  font-size: 19px;
+}
+
+.header__links:hover {
+  color: #335eea;
+}
+
+.header__links:active {
+  opacity: 0.4;
+}
+
+.header__link {
+  background-color: #335eea;
+  font-family: sans-serif;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.header__link:hover {
+  background-color: #1046f9;
+  color: #ffffff;
+}
+
+.header__link:active {
+  opacity: 0.4;
+}

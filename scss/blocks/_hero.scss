@@ -1,0 +1,47 @@
+.hero__title {
+  margin: 0px;
+  font-family: sans-serif;
+  font-size: 45px;
+  line-height: 1.2;
+}
+
+.hero__desc {
+  margin: 0px;
+  font-family: sans-serif;
+  font-size: 21px;
+  font-weight: 400;
+  color: #869ab8;
+}
+
+.hero__link {
+  padding: 13px 20px;
+  font-family: sans-serif;
+  font-size: 17px;
+  background-color: rgba(51,94,234,.1);
+  color: #335eea;
+}
+
+.hero__link:hover {
+  background-color: rgba(104, 135, 236, 0.1);
+  color: #003cff;
+}
+
+.hero__link:active {
+  opacity: 0.4;
+}
+
+.hero__link-top {
+  padding: 13px 20px;
+  font-family: sans-serif;
+  font-size: 17px;
+  background-color: #335eea;
+}
+
+.hero__link-top:hover {
+  background-color: #003cff;
+}
+
+
+.hero__link-top:active {
+  opacity: 0.4;
+}

@@ -1,0 +1,64 @@
+.resource {
+  background-color: #f9fbfd;
+}
+
+.resource__input {
+  outline: none;
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid #f1f4f8;
+}
+
+.resource__img {
+  border-radius: 5px;
+}
+
+.resource__input::placeholder {
+  color: #869ab8;
+}
+
+.resource__btn {
+  font-family: sans-serif;
+  font-size: 17px;
+  background-color: #42ba96;
+  outline: none;
+  border: none;
+}
+
+.resource__btn:hover {
+  background-color: #188a68;
+  color: #f1f4f8;
+}
+
+.resource__btn:active {
+  opacity: 0.5;
+}
+
+.resource__title {
+  font-family: sans-serif;
+  font-size: 31px;
+  color: #161c2d;
+}
+
+.resource__span {
+  color: #42ba96;
+}
+
+.resource__desc {
+  font-family: sans-serif;
+  font-size: 19px;
+  color: #869ab8;
+}
+
+.resource__text {
+  color: #42ba96;
+}
+
+.resource__info {
+  margin-left: 150px;
+}
+
+.resource__icons {
+  width: 16px;
+  height: 16px;
+}
